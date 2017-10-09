@@ -43,7 +43,7 @@ The video is available on [project_video_output.mp4] (https://github.com/dbjnbnr
 
 * Finally, I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result:
 
-![Distortion Correction](./output_images/original_to_undistorted.png "Original To Undistorted")
+![Distortion Correction](./output_images/original_to_undistorted_chessboard.png "Original To Undistorted")
 
 
 Code Link: The code is in pipeline.ipynb section **Calibration Matrix**
